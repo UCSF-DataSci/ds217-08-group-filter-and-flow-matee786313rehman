@@ -1,0 +1,7 @@
+facility_type,region,total_encounters,avg_charge,total_charge
+Hospital,South,509.0,658.0104125736739,334927.3
+Specialty Center,South,1026.0,655.5032066276804,672546.29
+Specialty Center,West,946.0,634.222558139535,599974.54
+Urgent Care,North,510.0,656.8474705882353,334992.21
+Urgent Care,South,970.0,630.7145463917526,611793.11
+Urgent Care,West,1039.0,622.8991722810395,647192.24

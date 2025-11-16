@@ -1,0 +1,11 @@
+facility_id,facility_name,total_providers,avg_years_experience,total_service_charge,total_insurance_paid
+FAC001,City General Hospital,52,23.307692307692307,295508.13,236798.5
+FAC002,Community Health Clinic,58,17.810344827586206,334992.21,269207.92
+FAC003,Regional Medical Center,44,19.136363636363637,316284.98,251750.43
+FAC004,Northside Urgent Care,48,20.4375,297283.06,236839.71
+FAC005,Cardiology Specialty Center,48,18.6875,276658.83,222139.04
+FAC006,Oncology Treatment Center,53,21.88679245283019,334927.3,267183.95
+FAC007,Pediatric Care Center,48,19.854166666666668,361811.04,291790.95
+FAC008,Emergency Medical Center,46,21.76086956521739,310735.25,248439.2
+FAC009,Primary Care Clinic,51,20.294117647058822,323315.71,260297.44
+FAC010,Surgical Specialty Center,52,17.51923076923077,349909.18,278503.38

@@ -1,0 +1,36 @@
+Q1 Aggregation Report
+=====================
+
+Total facilities: 10
+Total providers: 500
+Total encounters: 5000
+
+Summary of years of experience by facility (mean ± std):
+
+                  mean        std  min  max  count
+facility_id                                       
+FAC001       19.563008  10.702137    1   39    492
+FAC002       20.160784  11.044011    1   39    510
+FAC003       20.209205  11.575935    1   39    478
+FAC004       20.137014  10.581439    1   39    489
+FAC005       19.319728  10.484612    1   39    441
+FAC006       19.381139  10.872386    1   39    509
+FAC007       19.811676  10.999242    1   39    531
+FAC008       19.668687  11.023867    1   39    495
+FAC009       20.102970  11.077168    1   39    505
+FAC010       20.778182  11.358132    1   39    550
+
+
+Facility total encounter charges:
+
+facility_id
+FAC001    295508.13
+FAC002    334992.21
+FAC003    316284.98
+FAC004    297283.06
+FAC005    276658.83
+FAC006    334927.30
+FAC007    361811.04
+FAC008    310735.25
+FAC009    323315.71
+FAC010    349909.18
